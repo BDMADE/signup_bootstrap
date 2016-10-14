@@ -6,7 +6,7 @@ require 'signup/version'
 Gem::Specification.new do |spec|
   spec.name          = 'signup_bootstrap'
   spec.version       = Signup::VERSION
-  spec.authors       = ['hmtanbir']
+  spec.authors       = ['Hasan Mohammad Tanbir']
   spec.email         = ['tanbir2025@gmail.com']
   spec.summary       = 'This is an authentication system designed by twitter bootstrap'
   spec.description   = 'A simple authentication system which has been designed by twitter bootstrap'
