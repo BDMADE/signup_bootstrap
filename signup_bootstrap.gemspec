@@ -4,13 +4,13 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'signup_bootstrap/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'signup_bootstrap'
+  spec.name          = 'signup'
   spec.version       = SignupBootstrap::VERSION
   spec.authors       = ['hmtanbir']
   spec.email         = ['tanbir2025@gmail.com']
   spec.summary       = 'This is an authentication system designed by twitter bootstrap'
   spec.description   = 'A simple authentication system which has been designed by twitter bootstrap'
-  spec.homepage      = 'https://github.com/BDMADE/signup_bootstrap'
+  spec.homepage      = 'https://github.com/BDMADE/signup'
   spec.license       = 'MIT'
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'

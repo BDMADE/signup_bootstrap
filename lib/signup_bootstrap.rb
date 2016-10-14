@@ -1,6 +1,6 @@
-require 'signup_bootstrap/version'
-require 'signup_bootstrap/engine'
+require 'signup/version'
+require 'signup/engine'
 
-module SignupBootstrap
+module Signup
   # Your code goes here...
 end

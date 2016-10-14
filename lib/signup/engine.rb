@@ -1,4 +1,4 @@
-module SignupBootstrap
+module Signup
   class Engine < ::Rails::Engine
 
     config.generators do |g|
